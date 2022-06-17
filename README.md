@@ -29,7 +29,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Intel最高！
 - Lenovo
 - Huawei  
-- VAIO
+- IBM
 - SONY
 - MSI
 - Hp
